@@ -4,8 +4,8 @@ background-color: brown;
 }
 header h1{
     color:antiquewhite;
-    background-color:blueviolet;
-    max-width: 80%;
+    background-color:rgb(255, 0, 0);
+    max-width: 100%;
     text-align: center;
     text-transform: uppercase;
     border-radius: .3rem;
