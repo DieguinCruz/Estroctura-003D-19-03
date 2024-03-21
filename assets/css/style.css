@@ -5,10 +5,14 @@ background-color: brown;
 header h1{
     color:antiquewhite;
     background-color:rgb(255, 0, 0);
-    max-width: 100%;
+    max-width: 60%;
     text-align: center;
     text-transform: uppercase;
+    margin: 0 auto;
     border-radius: .3rem;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-radius: 1rem;
 }
 
 nav ul{
